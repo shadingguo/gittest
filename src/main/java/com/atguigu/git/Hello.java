@@ -12,5 +12,6 @@ public class Hello {
         System.out.println("master");
         System.out.println("hot2");
         System.out.println("github push");
+        System.out.println("github pull");
     }
 }
