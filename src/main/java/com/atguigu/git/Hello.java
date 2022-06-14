@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("hello world1");
         System.out.println("hot");
         System.out.println("hot2");
+        System.out.println("hot3");
     }
 }
